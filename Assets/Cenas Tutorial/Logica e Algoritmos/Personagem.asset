@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da840d0eaef60b94d82e914c1e427a38, type: 3}
+  m_Name: Personagem
+  m_EditorClassIdentifier: 
+  Nome: josue
+  Vidas: 54
+  ComidaFavorita: 1
+  Equipamentos:
+  - Bumerangue
